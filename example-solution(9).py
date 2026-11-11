@@ -18,5 +18,5 @@ def artorom(arabic):
           RTZ = "VIII"
       case 9:
           RTZ = "IX"
-        return
-print(def(int(input("введите арабское число от 1 до 9: "))
+    return RTZ
+print(def(int(input("введите арабское число от 1 до 9: ")))
